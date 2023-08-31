@@ -1,8 +1,7 @@
 1. In the interpreter, create a new dict with the keys 'name', and
 'favorite food'.  For values, enter your answers.  Use the print()
-function to print out the following strings, using the keys and values
-from the dict to fill in the 'name'/'favorite food' section, and the
-'XYZ' section:
+function to print out the following strings, using the values
+from the dict to fill in the 'XYZ' section:
 
 Your name is XYZ
 Your favorite food is XYZ
