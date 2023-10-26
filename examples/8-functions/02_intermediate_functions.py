@@ -23,10 +23,8 @@ def make_pizza(*toppings, **special_instructions):
     print('Make a pizza with the following toppings:')
     for topping in toppings:
         print(f'- {topping}')
-
     if not special_instructions:
         return
-
     print('Special instructions:')
     for key, value in special_instructions.items():
         print(f'{key}: {value}')
